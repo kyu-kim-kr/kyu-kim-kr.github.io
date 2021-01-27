@@ -1,7 +1,7 @@
 title: 배운 것을 기록하는 공간 # name of the site
 author: Kyu # name of site's author
 email: iamscvv@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
+url: https://kyu-kim-kr.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   이 라인은 디스크립션.
@@ -14,10 +14,10 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed

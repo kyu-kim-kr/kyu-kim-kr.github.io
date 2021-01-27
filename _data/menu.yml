@@ -2,12 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: CSS를 거의 이용하지 않은 빠르고 멋진 심플한 블로그.
+      - title: github
+        url: https://github.com/kyu-kim-kr
+      - title: facebook
+        url: https://www.facebook.com/profile.php?id=100004928773049
+      - title: velog
+        url: https://velog.io/@kyukim
 
   - title: all posts
     post_list:
@@ -18,14 +21,14 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: archive
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: archive.html
 
   - title: rss
     url: feed.xml
-  
+
   - title: another list
     entries:
       - title: with subitems
