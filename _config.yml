@@ -1,10 +1,10 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
+title: 배운 것을 기록하는 공간 # name of the site
+author: Kyu # name of site's author
+email: iamscvv@gmail.com # email of site's author
 url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog"
+baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  이 라인은 디스크립션.
 
 permalink: /:slug.html
 
